@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building my protfolio<br>🤝 Looking for help in Go / R languages<br>💭 Ask me about anything related to JS / Vue / PHP / Devops<br>⚡Fun fact : coding at speed of light 😜
+🔭 Currently building my portfolio<br>🤝 Looking for help in Go / R languages<br>💭 Ask me about anything related to JS / Vue / PHP / Devops<br>⚡Fun fact : coding at speed of light 😜
 
 
 ## 🌐 Socials:
